@@ -1,0 +1,20 @@
+{
+  "apktool.jar": {
+    "url": "https://github.com/iBotPeaches/Apktool/releases/download/v2.12.1/apktool_2.12.1.jar",
+    "sha256": "66cf4524a4a45a7f56567d08b2c9b6ec237bcdd78cee69fd4a59c8a0243aeafa"
+  },
+  "r8.jar": {
+    "url": "https://storage.googleapis.com/r8-releases/raw/9.5.29/r8lib.jar",
+    "sha256": "f8c762ff84640b10083b934a47278758a7665977e618fab0c927fff00521dea3"
+  },
+  "uber-apk-signer.jar": {
+    "url": "https://github.com/patrickfav/uber-apk-signer/releases/download/v1.3.0/uber-apk-signer-1.3.0.jar",
+    "sha256": "e1299fd6fcf4da527dd53735b56127e8ea922a321128123b9c32d619bba1d835"
+  },
+  "android34.jar": {
+    "url": "https://dl.google.com/android/repository/platform-34-ext7_r02.zip",
+    "archiveSha256": "5323311cc3e4ad614f0b8053c72b651726f3422448cedd39e48f00737cda8ad0",
+    "member": "android-34/android.jar",
+    "sha256": "6cea1df3efb77103ac3e2beb9bf4718964b0e0869ab16d39d29d5cbae1c147ad"
+  }
+}

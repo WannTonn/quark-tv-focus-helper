@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">夸克焦点延迟助手</string>
+    <string name="service_description">仅在夸克 TV 前台恢复遥控器导航焦点并传递按键。默认在最后一次导航按键或窗口、焦点变化 3 秒后尝试清除全屏焦点高亮。读取窗口包名、焦点与控件边界，不读取文本和视频内容，没有联网权限。需要 ADB 配套进程；设备重启后需重新启动配套进程。可随时在无障碍设置中停用。</string>
+</resources>

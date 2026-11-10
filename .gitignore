@@ -1,0 +1,25 @@
+# Generated builds, downloaded tools, and machine-local state
+/build/
+/.tools/
+/local.properties
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Private signing material and runtime authentication
+*.jks
+*.keystore
+*.p12
+*.pfx
+*.pem
+.env
+.env.*
+*agent-config*
+*state.json
+
+# Release binaries are distributed separately from Git source history
+/releases/**
+!/releases/README.md
